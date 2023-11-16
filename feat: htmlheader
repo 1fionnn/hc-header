@@ -1,0 +1,468 @@
+<html lang="pt-BR" itemscope itemtype="http://schema.org/WebPage">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel='stylesheet' href='css.css' />
+    <link rel='stylesheet' id='rs-plugin-settings-css' href='css/css1.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='searchandfilter-css' href='css/css2.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='wpex-style-css' href='css/css3.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='wpex-style-css' href='css/css4.css'/>
+</head>
+
+<body
+    class="page-template-default page page-id-300 wp-custom-logo wpex-theme wpex-responsive full-width-main-layout has-composer wpex-live-site content-full-width has-topbar has-breadcrumbs sidebar-widget-icons hasnt-overlay-header smooth-fonts wpex-mobile-toggle-menu-icon_buttons_under_logo has-mobile-menu comment-avatars-disabled wpb-js-composer js-comp-ver-5.3 vc_responsive elementor-default elementor-kit-1240">
+    <a href="#content" class="skip-to-content local-scroll-link">skip to Main Content</a>
+    <span data-ls_id="#site_top"></span>
+    <div id="outer-wrap" class="clr">
+        <div id="wrap" class="clr">
+            <div id="top-bar-wrap" class="clr">
+                <div id="top-bar" class="clr container">
+                    <div id="top-bar-content" class="wpex-clr has-content top-bar-left">
+                        <div class="info_topo">
+                            <span class="address_topo">
+                                <div style='cursor:pointer' class='modal-location'>
+                                    <img src="https://icr.usp.br/wp-content/uploads/2017/11/location_ico.png" />
+                                    AV. DR. ENÉAS CARVALHO DE AGUIAR, 647, SÃO PAULO - SP
+
+                                        
+                                    <img src="https://icr.usp.br/wp-content/uploads/2017/11/phone_ico.png" />(11)
+                                    2661-8500
+
+                                </div>
+                            </span>
+                        </div>
+                    </div>
+                    <div id="top-bar-social-alt" class="clr top-bar-right">
+                        <form action="" method="post" class="searchandfilter">
+                            <div>
+                                <ul>
+                                    <li>
+                                        <input type="text" name="ofsearch" placeholder="" value="">
+                                    </li>
+                                    <li>
+                                        <input type="hidden" name="ofsubmitted" value="1">
+                                        <input type="submit" value="PESQUISAR">
+                                    </li>
+                                </ul>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <header id="site-header" class="header-two wpex-header-two-flex-v dyn-styles clr" itemscope="itemscope"
+                itemtype="http://schema.org/WPHeader">
+                <div id="site-header-inner" class="container clr">
+                    <div id="site-logo" class="site-branding clr header-two-logo">
+                        <div id="site-logo-inner" class="clr">
+                            <a href="https://icr.usp.br/" title="ICR" rel="home" class="main-logo">
+                                <img src="https://icr.usp.br/wp-content/uploads/2022/04/logo-1.png" alt="ICR"
+                                    class="logo-img" data-no-retina />
+                            </a>
+                        </div>
+                    </div>
+                    <aside id="header-aside" class="clr header-two-aside">
+                        <div class="header-aside-content clr"></div>
+                    </aside>
+                    <div id="mobile-menu" class="clr wpex-mobile-menu-toggle wpex-hidden">
+                        <a href="#" class="mobile-menu-toggle">
+                            <span class="fa fa-navicon" aria-hidden="true"></span>
+                            <span class="screen-reader-text">Open Mobile Menu</span>
+                        </a>
+                    </div>
+                    <div id="logos_parceiros">
+                        <img src="https://icr.usp.br/wp-content/uploads/2017/11/logos_icr_parceiros.png">
+                    </div>
+                </div>
+                <div id="site-navigation-wrap" class="navbar-style-two fixed-nav clr">
+                    <nav id="site-navigation" class="navigation main-navigation clr container" itemscope="itemscope"
+                        itemtype="http://schema.org/SiteNavigationElement">
+                        <ul id="menu-menu" class="dropdown-menu sf-menu">
+                            <li id="menu-item-617"
+                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-617">
+                                <a href="https://icr.usp.br/">
+                                    <span class="link-inner">Home</span>
+                                </a>
+                            </li>
+                            <li id="menu-item-618"
+                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-618">
+                                <a>
+                                    <span class="link-inner">
+                                        Pacientes e Acompanhantes <span
+                                            class="nav-arrow top-level fa fa-angle-down"></span>
+                                    </span>
+                                </a>
+                                <ul class="sub-menu">
+                                    <li id="menu-item-619"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-619">
+                                        <a href="https://icr.usp.br/portal-do-paciente/">
+                                            <span class="link-inner">Portal do Paciente</span>
+                                        </a>
+                                    </li>
+                                    <li id="menu-item-620"
+                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-620">
+                                        <a>
+                                            <span class="link-inner">
+                                                Equipe e Unidades Assistenciais<span
+                                                    class="nav-arrow second-level fa fa-angle-right"></span>
+                                            </span>
+                                        </a>
+                                        <ul class="sub-menu">
+                                            <li id="menu-item-621"
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-621">
+                                                <a href="https://icr.usp.br/unidade-de-servicos/">
+                                                    <span class="link-inner">Unidade de Serviços</span>
+                                                </a>
+                                            </li>
+                                            <li id="menu-item-622"
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-622">
+                                                <a href="https://icr.usp.br/especialidades-e-areas-de-atuacao/">
+                                                    <span class="link-inner">Especialidades e Áreas de atuação</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li id="menu-item-623"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-623">
+                                        <a href="https://icr.usp.br/ouvidoria/">
+                                            <span class="link-inner">Ouvidoria</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li id="menu-item-624"
+                                class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children dropdown menu-item-624">
+                                <a href="#">
+                                    <span class="link-inner">
+                                        Profissionais da Saúde <span
+                                            class="nav-arrow top-level fa fa-angle-down"></span>
+                                    </span>
+                                </a>
+                                <ul class="sub-menu">
+                                    <li id="menu-item-630"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-300 current_page_item menu-item-630">
+                                        <a href="https://icr.usp.br/enfermagem/" aria-current="page">
+                                            <span class="link-inner">Enfermagem</span>
+                                        </a>
+                                    </li>
+                                    <li id="menu-item-631"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-631">
+                                        <a href="https://icr.usp.br/framacia/">
+                                            <span class="link-inner">Farmácia</span>
+                                        </a>
+                                    </li>
+                                    <li id="menu-item-629"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-629">
+                                        <a href="https://icr.usp.br/fisioterapia/">
+                                            <span class="link-inner">Fisioterapia</span>
+                                        </a>
+                                    </li>
+                                    <li id="menu-item-628"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-628">
+                                        <a href="https://icr.usp.br/fonoaudiologia/">
+                                            <span class="link-inner">Fonoaudiologia</span>
+                                        </a>
+                                    </li>
+                                    <li id="menu-item-632"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-632">
+                                        <a href="https://icr.usp.br/nutricao/">
+                                            <span class="link-inner">Nutrição</span>
+                                        </a>
+                                    </li>
+                                    <li id="menu-item-627"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-627">
+                                        <a href="https://icr.usp.br/odontologia/">
+                                            <span class="link-inner">Odontologia</span>
+                                        </a>
+                                    </li>
+                                    <li id="menu-item-626"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-626">
+                                        <a href="https://icr.usp.br/psicologia/">
+                                            <span class="link-inner">Psicologia</span>
+                                        </a>
+                                    </li>
+                                    <li id="menu-item-633"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-633">
+                                        <a href="https://icr.usp.br/servico-social/">
+                                            <span class="link-inner">Serviço Social</span>
+                                        </a>
+                                    </li>
+                                    <li id="menu-item-625"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-625">
+                                        <a href="https://icr.usp.br/terapia-ocupacional/">
+                                            <span class="link-inner">Terapia Ocupacional</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li id="menu-item-634"
+                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-634">
+                                <a href="#">
+                                    <span class="link-inner">
+                                        Ensino e Pesquisa <span class="nav-arrow top-level fa fa-angle-down"></span>
+                                    </span>
+                                </a>
+                                <ul class="sub-menu">
+                                    <li id="menu-item-1737"
+                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-1737">
+                                        <a href="#">
+                                            <span class="link-inner">
+                                                Cursos<span class="nav-arrow second-level fa fa-angle-right"></span>
+                                            </span>
+                                        </a>
+                                        <ul class="sub-menu">
+                                            <li id="menu-item-1738"
+                                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1738">
+                                                <a href="https://www.caepp.com/">
+                                                    <span class="link-inner">CAEPP</span>
+                                                </a>
+                                            </li>
+                                            <li id="menu-item-1739"
+                                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1739">
+                                                <a href="https://eephcfmusp.org.br/portal/">
+                                                    <span class="link-inner">EEP</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li id="menu-item-1740"
+                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-1740">
+                                        <a href="#">
+                                            <span class="link-inner">
+                                                Pesquisa<span class="nav-arrow second-level fa fa-angle-right"></span>
+                                            </span>
+                                        </a>
+                                        <ul class="sub-menu">
+                                            <li id="menu-item-1741"
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1741">
+                                                <a href="https://icr.usp.br/lim-36/">
+                                                    <span class="link-inner">LIM 36</span>
+                                                </a>
+                                            </li>
+                                            <li id="menu-item-1742"
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1742">
+                                                <a href="https://icr.usp.br/lim-30/">
+                                                    <span class="link-inner">LIM 30</span>
+                                                </a>
+                                            </li>
+                                            <li id="menu-item-1743"
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1743">
+                                                <a href="https://icr.usp.br/centro-de-pesquisa-clinica/">
+                                                    <span class="link-inner">Centro de Pesquisa Clínica</span>
+                                                </a>
+                                            </li>
+                                            <li id="menu-item-1744"
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1744">
+                                                <a href="https://icr.usp.br/comissao-multiprofissional-de-pesquisa/">
+                                                    <span class="link-inner">Comissão Multiprofissional de
+                                                        Pesquisa</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li id="menu-item-1745"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1745">
+                                        <a href="https://icr.usp.br/biblioteca/">
+                                            <span class="link-inner">Biblioteca</span>
+                                        </a>
+                                    </li>
+                                    <li id="menu-item-1746"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1746">
+                                        <a href="https://icr.usp.br/telemedicina/">
+                                            <span class="link-inner">Telemedicina</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li id="menu-item-1747"
+                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-1747">
+                                <a href="#">
+                                    <span class="link-inner">
+                                        O Hospital <span class="nav-arrow top-level fa fa-angle-down"></span>
+                                    </span>
+                                </a>
+                                <ul class="sub-menu">
+                                    <li id="menu-item-1749"
+                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1749">
+                                        <a href="http://www.hc.fm.usp.br/">
+                                            <span class="link-inner">HCFMUSP</span>
+                                        </a>
+                                    </li>
+                                    <li id="menu-item-1748"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-1748">
+                                        <a href="https://icr.usp.br/sobre-icr/">
+                                            <span class="link-inner">
+                                                Sobre o ICr<span
+                                                    class="nav-arrow second-level fa fa-angle-right"></span>
+                                            </span>
+                                        </a>
+                                        <ul class="sub-menu">
+                                            <li id="menu-item-1750"
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1750">
+                                                <a href="https://icr.usp.br/centro-de-referencia/">
+                                                    <span class="link-inner">Centro de Referência</span>
+                                                </a>
+                                            </li>
+                                            <li id="menu-item-1751"
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1751">
+                                                <a href="https://icr.usp.br/programa-diagnostico-amigo-da-crianca/">
+                                                    <span class="link-inner">Programa Diagnóstico Amigo da
+                                                        Criança</span>
+                                                </a>
+                                            </li>
+                                            <li id="menu-item-1752"
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1752">
+                                                <a href="https://icr.usp.br/certificacoes-e-premios/">
+                                                    <span class="link-inner">Certificações e Prêmios</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li id="menu-item-1753"
+                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-1753">
+                                        <a href="#">
+                                            <span class="link-inner">
+                                                Responsabilidade Social<span
+                                                    class="nav-arrow second-level fa fa-angle-right"></span>
+                                            </span>
+                                        </a>
+                                        <ul class="sub-menu">
+                                            <li id="menu-item-1754"
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1754">
+                                                <a href="https://icr.usp.br/humanizacao/">
+                                                    <span class="link-inner">Humanização</span>
+                                                </a>
+                                            </li>
+                                            <li id="menu-item-1901"
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1901">
+                                                <a href="https://icr.usp.br/voluntarios-e-parceiros/">
+                                                    <span class="link-inner">Voluntários e Parceiros</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li id="menu-item-1756"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1756">
+                                        <a href="https://icr.usp.br/imprensa/">
+                                            <span class="link-inner">Imprensa</span>
+                                        </a>
+                                    </li>
+                                    <li id="menu-item-1757"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1757">
+                                        <a href="https://icr.usp.br/doacoes/">
+                                            <span class="link-inner">Doações</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li id="menu-item-1688"
+                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-1688">
+                                <a href="#">
+                                    <span class="link-inner">
+                                        Campanhas <span class="nav-arrow top-level fa fa-angle-down"></span>
+                                    </span>
+                                </a>
+                                <ul class="sub-menu">
+                                    <li id="menu-item-2580"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2580">
+                                        <a href="https://icr.usp.br/milmotivosparadoar/">
+                                            <span class="link-inner">Mil Motivos Para Doar</span>
+                                        </a>
+                                    </li>
+                                    <li id="menu-item-2745"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2745">
+                                        <a href="https://icr.usp.br/agostodourado/">
+                                            <span class="link-inner">Agosto Dourado</span>
+                                        </a>
+                                    </li>
+                                    <li id="menu-item-1936"
+                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1936">
+                                        <a href="https://icr.usp.br/manual-doencas-raras/">
+                                            <span class="link-inner">Guia Prático de Doenças Raras</span>
+                                        </a>
+                                    </li>
+                                    <li id="menu-item-2338"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2338">
+                                        <a href="https://icr.usp.br/brincar/">
+                                            <span class="link-inner">Campanha BRINCAR</span>
+                                        </a>
+                                    </li>
+                                    <li id="menu-item-2530"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2530">
+                                        <a href="https://icr.usp.br/sauderenal/">
+                                            <span class="link-inner">Dia Mundial Do Rim</span>
+                                        </a>
+                                    </li>
+                                    <li id="menu-item-1689"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1689">
+                                        <a href="https://icr.usp.br/novembro-roxo/">
+                                            <span class="link-inner">Novembro Roxo</span>
+                                        </a>
+                                    </li>
+                                    <li id="menu-item-2131"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2131">
+                                        <a href="https://icr.usp.br/maio-laranja/">
+                                            <span class="link-inner">MAIO LARANJA – 2022</span>
+                                        </a>
+                                    </li>
+                                    <li id="menu-item-1727"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1727">
+                                        <a href="https://icr.usp.br/campanha-de-saude-oral-infantil/">
+                                            <span class="link-inner">Campanha de Saúde Oral Infantil</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </header>
+            <main id="main" class="site-main clr">
+                <header class="page-header wpex-supports-mods has-bg-image bg-repeat-x">
+                    <div class="page-header-inner container clr">
+                        <h1 class="page-header-title wpex-clr" itemprop="headline">
+                            <span>Enfermagem</span>
+                        </h1>
+                        <nav class="site-breadcrumbs wpex-clr  position-under-title">
+                            <span class="breadcrumb-trail">
+                                <span>
+                                    <span class="Mudanca">
+                                        <a href="https://icr.usp.br/">Radiografia</a>
+                                        <a>raio x</a>
+                                        <a>ultrassom</a>
+                                    </span>
+                                </span>
+                            </span>
+                        </nav>
+                    </div>
+                </header>
+
+                <body>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                </body>

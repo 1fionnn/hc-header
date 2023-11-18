@@ -45,13 +45,13 @@
             </ul>
         </nav>
     </header>
-    <section>
+    <div>
         <ul class="exames">
             <li> radiologia</li>
             <li> hemografia</li>
             <li> ultrassom</li>
         </ul>
-    </section>
+    </div>
    
 </body>
 </html>
